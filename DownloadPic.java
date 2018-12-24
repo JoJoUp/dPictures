@@ -8,6 +8,8 @@ import java.util.stream.Collectors;
 
 /**
  * Класс, предназначенный для скачивания картинок с сайта.
+ *
+ * @author Стрыгин М.О.
  */
 
     public class DownloadPic {
